@@ -1,0 +1,15 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "foldHeading": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "smartIndentList": false,
+  "vimMode": true,
+  "strictLineBreaks": true,
+  "foldIndent": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "useTab": false,
+  "tabSize": 4
+}
