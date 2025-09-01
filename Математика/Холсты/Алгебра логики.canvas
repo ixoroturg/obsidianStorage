@@ -9,13 +9,15 @@
 		{"id":"254585a8ef815f1d","type":"file","file":"Алгебра логики/Кванторы.md","x":-160,"y":1360,"width":400,"height":400},
 		{"id":"0033f1ea47550f47","type":"file","file":"Алгебра логики/Формулы логики предикатов.md","x":-160,"y":2000,"width":400,"height":400},
 		{"id":"874f2e6445e63461","type":"file","file":"Алгебра логики/Тождества.md","x":520,"y":120,"width":400,"height":400},
-		{"id":"1c508d168334aad8","type":"file","file":"Алгебра логики/Тавтологии.md","x":1209,"y":120,"width":400,"height":400},
-		{"id":"132c957f322a067e","x":520,"y":1360,"width":400,"height":400,"type":"file","file":"Алгебра логики/Основные равносильности, содержащие кванторы.md"},
-		{"id":"d1c60dfe3ec9debe","type":"file","file":"Алгебра логики/Нормальные формы формул.md","x":2200,"y":120,"width":400,"height":400},
-		{"id":"4c09c42b79c8e626","type":"file","file":"Алгебра логики/Гипотезы и следствия.md","x":2880,"y":120,"width":400,"height":400},
-		{"id":"28adcee392f6ef37","type":"file","file":"Алгебра логики/Схемы логических умозаключений.md","x":3560,"y":120,"width":400,"height":400},
-		{"id":"e5ab42cf7a78fd1f","type":"file","file":"Алгебра логики/Проблема разрешения.md","x":2200,"y":-680,"width":400,"height":400},
-		{"id":"b3ab18d8087e3ae5","type":"file","file":"Алгебра логики/Полнота систем логических функций.md","x":1209,"y":-560,"width":400,"height":400}
+		{"id":"132c957f322a067e","type":"file","file":"Алгебра логики/Основные равносильности, содержащие кванторы.md","x":520,"y":1360,"width":400,"height":400},
+		{"id":"b3ab18d8087e3ae5","type":"file","file":"Алгебра логики/Полнота систем логических функций.md","x":1209,"y":-560,"width":400,"height":400},
+		{"id":"d84bfd7dcbb44e3e","type":"file","file":"Алгебра логики/Предварённая нормальная формула.md","x":1209,"y":1360,"width":400,"height":400},
+		{"id":"55cfb8b417f63d7a","x":1840,"y":1360,"width":400,"height":400,"type":"file","file":"Алгебра логики/Тавтологии логики предикатов.md"},
+		{"id":"1c508d168334aad8","type":"file","file":"Алгебра логики/Тавтологии.md","x":1840,"y":120,"width":400,"height":400},
+		{"id":"d1c60dfe3ec9debe","type":"file","file":"Алгебра логики/Нормальные формы формул.md","x":1840,"y":-560,"width":400,"height":400},
+		{"id":"e5ab42cf7a78fd1f","type":"file","file":"Алгебра логики/Проблема разрешения.md","x":1840,"y":720,"width":400,"height":400},
+		{"id":"4c09c42b79c8e626","type":"file","file":"Алгебра логики/Гипотезы и следствия.md","x":2720,"y":720,"width":400,"height":400},
+		{"id":"28adcee392f6ef37","type":"file","file":"Алгебра логики/Схемы логических умозаключений.md","x":3480,"y":720,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"2b62ad986f00cba3","fromNode":"d84f8fd93a2dc7ab","fromSide":"right","toNode":"c1075300d743b016","toSide":"left"},
@@ -24,8 +26,8 @@
 		{"id":"5757b7f96b158731","fromNode":"928b6a5f5c30f90f","fromSide":"bottom","toNode":"874f2e6445e63461","toSide":"top"},
 		{"id":"e00416b5f0fb9dce","fromNode":"1ddcfe295d0eff25","fromSide":"bottom","toNode":"874f2e6445e63461","toSide":"top"},
 		{"id":"4457bf7105a51e36","fromNode":"1ddcfe295d0eff25","fromSide":"right","toNode":"b3ab18d8087e3ae5","toSide":"left"},
-		{"id":"a98e74bda4738dcb","fromNode":"d1c60dfe3ec9debe","fromSide":"top","toNode":"e5ab42cf7a78fd1f","toSide":"bottom"},
-		{"id":"b8205442c6934859","fromNode":"d1c60dfe3ec9debe","fromSide":"right","toNode":"4c09c42b79c8e626","toSide":"left"},
+		{"id":"a98e74bda4738dcb","fromNode":"55cfb8b417f63d7a","fromSide":"top","toNode":"e5ab42cf7a78fd1f","toSide":"bottom"},
+		{"id":"b8205442c6934859","fromNode":"1c508d168334aad8","fromSide":"bottom","toNode":"e5ab42cf7a78fd1f","toSide":"top"},
 		{"id":"bfb7244742b507f1","fromNode":"b3ab18d8087e3ae5","fromSide":"right","toNode":"d1c60dfe3ec9debe","toSide":"left"},
 		{"id":"3bd96533c010353b","fromNode":"4c09c42b79c8e626","fromSide":"right","toNode":"28adcee392f6ef37","toSide":"left"},
 		{"id":"f48c3812de703f97","fromNode":"928b6a5f5c30f90f","fromSide":"bottom","toNode":"715e1483197a9331","toSide":"top"},
@@ -35,6 +37,11 @@
 		{"id":"9696accf1225fdc6","fromNode":"a4931c08d2d0dc43","fromSide":"bottom","toNode":"254585a8ef815f1d","toSide":"top"},
 		{"id":"2bae763ffcc258a7","fromNode":"254585a8ef815f1d","fromSide":"bottom","toNode":"0033f1ea47550f47","toSide":"top"},
 		{"id":"d7783e8d53b20cbe","fromNode":"874f2e6445e63461","fromSide":"bottom","toNode":"132c957f322a067e","toSide":"top"},
-		{"id":"b95e7325e24b9748","fromNode":"0033f1ea47550f47","fromSide":"right","toNode":"132c957f322a067e","toSide":"bottom"}
+		{"id":"b95e7325e24b9748","fromNode":"0033f1ea47550f47","fromSide":"right","toNode":"132c957f322a067e","toSide":"bottom"},
+		{"id":"59f26b8d40ddcb0f","fromNode":"132c957f322a067e","fromSide":"right","toNode":"d84bfd7dcbb44e3e","toSide":"left"},
+		{"id":"5537d18e3edde362","fromNode":"d84bfd7dcbb44e3e","fromSide":"right","toNode":"55cfb8b417f63d7a","toSide":"left"},
+		{"id":"c09d66dafa4d554b","fromNode":"d1c60dfe3ec9debe","fromSide":"bottom","toNode":"1c508d168334aad8","toSide":"top"},
+		{"id":"0c8e65401c5fa0eb","fromNode":"1c508d168334aad8","fromSide":"right","toNode":"4c09c42b79c8e626","toSide":"left"},
+		{"id":"394de91cd70d044a","fromNode":"55cfb8b417f63d7a","fromSide":"right","toNode":"4c09c42b79c8e626","toSide":"left"}
 	]
 }
