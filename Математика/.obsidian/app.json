@@ -11,5 +11,8 @@
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "useTab": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false
 }
