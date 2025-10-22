@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:logic",
+      "query": "tag:#logic",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -19,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 65284
+      }
+    },
+    {
+      "query": "tag:#combinatorics  ",
+      "color": {
+        "a": 1,
+        "rgb": 1885929
       }
     }
   ],
