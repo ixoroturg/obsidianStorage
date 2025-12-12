@@ -14,5 +14,6 @@
   "tabSize": 4,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "rightToLeft": false
 }
